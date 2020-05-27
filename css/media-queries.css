@@ -1,0 +1,128 @@
+/* Vista para celular */
+
+/* ------------------------------------------ Services mobile*/
+
+.our-services-mobile-section {
+  padding: 20px;
+  scroll-behavior: smooth;
+}
+
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll {
+  -ms-overflow-style: none;
+}
+
+.hand-icon {
+  animation-name: hand;
+  animation-duration: 0.75s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes hand {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  50% {
+    transform: translate(10px, 0px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+.mis-cartitas {
+  min-width: 300px;
+  min-height: 300px;
+  background-color: var(--card-background);
+  color: var(--black);
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mis-cartitas img {
+  width: 150px;
+}
+
+.green-box-services-mobile {
+  width: 50px;
+  height: 12px;
+  background-color: var(--green);
+  border-radius: 1px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 576px) {
+  /* General styles */
+
+  ::root {
+    --navbar-elements-size: 10px;
+    --titles-size: 10px;
+    --second-titles-size: 10px;
+    --paragraphs-size: 10px;
+  }
+
+  /* About */
+
+  .about-section {
+    text-align: center;
+  }
+
+  .about-logo img {
+    width: 300px;
+    height: auto;
+  }
+
+  .card-members-section {
+    display: none !important;
+  }
+
+  .card-members {
+    margin-bottom: 15px;
+  }
+
+  /* Services */
+
+  .our-services-mobile-section {
+    background-image: url("../assets/images/background-left-to-right.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .services-title-section {
+    display: none !important;
+  }
+
+  /* Carousel */
+
+  .clients-carousel-section {
+    margin-top: 25px;
+  }
+
+  .container-de-pruebas {
+    text-align: center;
+    min-height: 750px;
+  }
+
+  .container-de-pruebas > div {
+    min-height: 700px;
+  }
+
+  .container-de-pruebas img {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  /* ------------------------------------- Contact*/
+
+  .contact-section {
+    margin-top: 30px;
+  }
+}
