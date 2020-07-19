@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tecmm-chapala-vida-estudiantil/static/css/main.4bf8e381.chunk.css",
+    "main.js": "/tecmm-chapala-vida-estudiantil/static/js/main.3059aa96.chunk.js",
+    "main.js.map": "/tecmm-chapala-vida-estudiantil/static/js/main.3059aa96.chunk.js.map",
+    "runtime-main.js": "/tecmm-chapala-vida-estudiantil/static/js/runtime-main.b09a46b0.js",
+    "runtime-main.js.map": "/tecmm-chapala-vida-estudiantil/static/js/runtime-main.b09a46b0.js.map",
+    "static/css/2.2458825f.chunk.css": "/tecmm-chapala-vida-estudiantil/static/css/2.2458825f.chunk.css",
+    "static/js/2.a085a1f9.chunk.js": "/tecmm-chapala-vida-estudiantil/static/js/2.a085a1f9.chunk.js",
+    "static/js/2.a085a1f9.chunk.js.map": "/tecmm-chapala-vida-estudiantil/static/js/2.a085a1f9.chunk.js.map",
+    "index.html": "/tecmm-chapala-vida-estudiantil/index.html",
+    "precache-manifest.dd3ec1af6acf7c2945ea1441329139b0.js": "/tecmm-chapala-vida-estudiantil/precache-manifest.dd3ec1af6acf7c2945ea1441329139b0.js",
+    "service-worker.js": "/tecmm-chapala-vida-estudiantil/service-worker.js",
+    "static/css/2.2458825f.chunk.css.map": "/tecmm-chapala-vida-estudiantil/static/css/2.2458825f.chunk.css.map",
+    "static/css/main.4bf8e381.chunk.css.map": "/tecmm-chapala-vida-estudiantil/static/css/main.4bf8e381.chunk.css.map",
+    "static/js/2.a085a1f9.chunk.js.LICENSE.txt": "/tecmm-chapala-vida-estudiantil/static/js/2.a085a1f9.chunk.js.LICENSE.txt",
+    "static/media/example-1.jpg": "/tecmm-chapala-vida-estudiantil/static/media/example-1.3b99ecf6.jpg",
+    "static/media/example-2.png": "/tecmm-chapala-vida-estudiantil/static/media/example-2.605ef2f0.png",
+    "static/media/house.jpg": "/tecmm-chapala-vida-estudiantil/static/media/house.0531d150.jpg",
+    "static/media/landing.jpg": "/tecmm-chapala-vida-estudiantil/static/media/landing.9536656a.jpg",
+    "static/media/App.css": "/tecmm-chapala-vida-estudiantil/static/media/tec-chapala.d4ed1e62.jpg",
+    "static/media/tshirt.jpg": "/tecmm-chapala-vida-estudiantil/static/media/tshirt.8f4694af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b09a46b0.js",
+    "static/css/2.2458825f.chunk.css",
+    "static/js/2.a085a1f9.chunk.js",
+    "static/css/main.4bf8e381.chunk.css",
+    "static/js/main.3059aa96.chunk.js"
+  ]
+}
