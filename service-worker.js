@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/davidaxel121/tecmm-chapala-vida-estudiantil/precache-manifest.2e3ffab791739ad0fc2d3ada922ef5c9.js"
+  "/tecmm-chapala-vida-estudiantil/precache-manifest.66107e26ce52d5815c3ac2b867374f50.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/davidaxel121/tecmm-chapala-vida-estudiantil/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/tecmm-chapala-vida-estudiantil/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
