@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0773e1292517b40d26ca01d14361fb39",
+    "revision": "9c989e375e45ea2ec429ce10aa7c177f",
     "url": "/tecmm-chapala-vida-estudiantil/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tecmm-chapala-vida-estudiantil/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "aebd3f8550d1ccda070e",
-    "url": "/tecmm-chapala-vida-estudiantil/static/css/main.7c515cd6.chunk.css"
+    "revision": "45e5d252508032447baa",
+    "url": "/tecmm-chapala-vida-estudiantil/static/css/main.4e901084.chunk.css"
   },
   {
     "revision": "03c8625b2eacac74624c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tecmm-chapala-vida-estudiantil/static/js/2.a085a1f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aebd3f8550d1ccda070e",
+    "revision": "45e5d252508032447baa",
     "url": "/tecmm-chapala-vida-estudiantil/static/js/main.3059aa96.chunk.js"
   },
   {

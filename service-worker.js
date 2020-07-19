@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tecmm-chapala-vida-estudiantil/precache-manifest.f35fa8d207997cfd66b1f4986fbc3da8.js"
+  "/tecmm-chapala-vida-estudiantil/precache-manifest.46c4f2a640d0b09941e640f6a015d9e0.js"
 );
 
 self.addEventListener('message', (event) => {
