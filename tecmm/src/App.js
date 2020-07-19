@@ -16,7 +16,7 @@ class App extends React.Component {
       <div className="tecmm-page">
 
         <Navbar className="" fixed="top" expand="lg">
-          <Navbar.Brand href="#home">Tecmm Campus Chapala</Navbar.Brand>
+          <Navbar.Brand href="#section-hero">Tecmm Campus Chapala</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto text-center">
